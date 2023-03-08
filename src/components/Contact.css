@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.section-contact{
+    height: 100%;    
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+    
+    
+}
+.contact{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    flex-direction: row;
+    
+}
+.contact-box{
+    text-align: center;
+}
+.icon {
+    font-size: 50px;
+}
+.img-bottom{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #fabfb9;
+}
